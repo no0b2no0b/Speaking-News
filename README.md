@@ -26,6 +26,6 @@ pip install GoogleNews
 
 
 ## 📞 SpeakingNews/
-├── speaking_news.py
+├── news_speaker.py
 ├── README.md
 
