@@ -1,14 +1,13 @@
-# 🗣️ Speaking News - Python Project
+# 🗣️ Search engine - Python Project
 
-**Speaking News** is a simple Python application that fetches the latest news headlines and reads them aloud using a text-to-speech engine. 
+**Search engine based on vocal command* is a simple Python application that fetches the latest news headlines after taking vocal command from the user. 
 
 ---
 
 ## 🚀 Features
 
-- Speech Recognition feature is ued
+- Speech Recognition feature is used
 - Fetches real-time news 
-- Converts text to speech using `pyttsx3`
 - Option to filter news by category
 
 ---
