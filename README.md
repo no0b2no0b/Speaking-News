@@ -1,6 +1,6 @@
-# 🗣️ Search engine - Python Project
+# 🗣️ News search engine - Python Project
 
-**Search engine based on vocal command* is a simple Python application that fetches the latest news headlines after taking vocal command from the user. 
+**News search engine based on vocal command* is a simple Python application that fetches the latest news headlines after taking vocal command from the user. 
 
 ---
 
